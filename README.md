@@ -4,4 +4,4 @@ Backend: .NET Core + EF Core<br />
 Frontend: Jue JS for and Angular for API + Tailwindcss.<br />
 Email: mustafa.khazaee1@gmail.com<br />
 Mobile: +93 747 286 603<br />
-</h3>
+Telegram: https://t.me/mustafakhazaee</h3>
